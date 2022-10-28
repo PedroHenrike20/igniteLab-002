@@ -10,7 +10,7 @@
 
 ## Event Platform
 <br>
-Uma edição fantástica do Ignite Lab 02 da Rocketseat utilizando React + Vite, GraphQL e Client Apollo para clonar a área de estudos da plataforma. 
+Uma edição fantástica do Ignite Lab 02 da Rocketseat utilizando React + Vite, GraphQL, Client Apollo e Tailwind CSS para clonar a área de estudos da plataforma. 
 <br>
 <br>
 

@@ -27,7 +27,7 @@ Uma edição fantástica do Ignite Lab 02 da Rocketseat utilizando React + Vite,
 <img align="center" alt="React" height="80" width="80" src="https://cdn-images-1.medium.com/max/1200/1*h3E_KHKB9jNKTkXkhrY5gA.png" style="margin-right: 45px"/> <br> <br>
 
 <!-- CSS -->
-<img align="center" alt="React" height="80" width="120" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" style="margin-bottom: 150px"/> 
+<img align="center" alt="React" height="50" width="100" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" style="margin-bottom: 150px"/> 
  </div>
 <br>
 <br>

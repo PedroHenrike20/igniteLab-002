@@ -2,8 +2,8 @@
 
 <h2 align="center">Event Platform</h2>
 <div align="center">
- <img align="center" alt="React" height="520" width="1200" src="https://user-images.githubusercontent.com/64162307/198697253-a87d5417-bd8a-483a-a03e-5e5a9513b49f.jpeg" style="margin-right: 25px"/> <br>
- <img align="center" alt="React" height="520" width="1200" src="https://user-images.githubusercontent.com/64162307/198697256-c64b7f18-fd24-4284-abdf-3eaac7a9db43.png" style="margin-right: 25px"/> 
+ <img align="center" alt="React" height="420" width="1250" src="https://user-images.githubusercontent.com/64162307/198697253-a87d5417-bd8a-483a-a03e-5e5a9513b49f.jpeg" style="margin-right: 25px"/> <br>
+ <img align="center" alt="React" height="420" width="1250" src="https://user-images.githubusercontent.com/64162307/198697256-c64b7f18-fd24-4284-abdf-3eaac7a9db43.png" style="margin-right: 25px"/> 
 </div>
 
 <hr>
